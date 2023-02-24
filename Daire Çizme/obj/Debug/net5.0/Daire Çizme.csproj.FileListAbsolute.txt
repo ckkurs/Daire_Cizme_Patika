@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net5.0\Daire Çizme.exe
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net5.0\Daire Çizme.deps.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net5.0\Daire Çizme.runtimeconfig.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net5.0\Daire Çizme.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net5.0\Daire Çizme.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net5.0\Daire Çizme.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.AssemblyInfo.cs
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\refint\Daire Çizme.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\Daire Çizme.genruntimeconfig.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net5.0\ref\Daire Çizme.dll
